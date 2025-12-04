@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # cypress-express-automação
 =======
 # cypress-express-automacao
@@ -179,4 +179,4 @@ Caso seja necessário, posso fornecer o vídeo da execução e o PDF com as evid
 QA Analyst
 
 
->>>>>>> 3bc350ea007f01ee919adfd2cdbb13fbe2b71902
+
