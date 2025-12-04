@@ -1,6 +1,4 @@
 
-# cypress-express-automação
-=======
 # cypress-express-automacao
 
 Este repositório contém o desafio técnico solicitado no processo seletivo para QA, incluindo automação de testes utilizando **Cypress**, com foco em simular uma pesquisa no Google, capturar screenshot e demonstrar fluxo completo da automação.
